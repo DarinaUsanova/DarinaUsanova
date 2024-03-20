@@ -3,7 +3,7 @@
 
 - 🐛 I’m currently working on **my pet projects.**
 
-- 🌸 I’m learning **TypeScript and planning to start Vue.js**
+- 🌸 I’m learning **TypeScript and Vue.js**
 
 - ⭐ You can reach me **via Telegram @darinushkaaa**
 
