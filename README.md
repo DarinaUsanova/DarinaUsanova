@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darina</h1>
 <h3 align="center">Junior frontend developer currently living in Belgrade, Serbia.</h3>
 
-- 🐛 I’m currently working on **my pet projects.**
+- 🐛 I’m currently working on **my pet projects**
 
-- 🌸 I’m learning **TypeScript and Vue.js**
+- 🌸 I’m learning **Vue.js**
 
 - ⭐ You can reach me **via Telegram @darinushkaaa**
 
